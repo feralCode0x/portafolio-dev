@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
 import gsap from "gsap";
 import { personalDetails } from "../Details";
 
@@ -8,7 +8,14 @@ function Home() {
   const h12 = useRef();
   const h13 = useRef();
   const myimageref = useRef();
+  /*const [animationClass, setAnimationClass] = useState('');
+    const timer = setTimeout(() => {
+
+    setAnimationClass('container mx-auto max-width section md:flex justify-between items-center'); // Clase que activa la animación
+  }, 1); // Pequeño delay
+  return () => clearTimeout(timer); // Limpieza*/
   useEffect(() => {
+
     const tl = gsap.timeline();
     tl.from(
       h11.current,

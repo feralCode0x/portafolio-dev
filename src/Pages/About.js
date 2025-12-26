@@ -11,13 +11,13 @@ function About() {
  <DownloadButton />
       <section>
      
-        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
+        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl font-bold">
           About Me
         </h1>
         <p className="text-content py-8 lg:max-w-3xl">{personalDetails.about}</p>
       </section>
       <section>
-        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
+        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl font-bold">
           Work Experience
         </h1>
         {React.Children.toArray(
