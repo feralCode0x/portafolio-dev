@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portafolio-dev/static/css/main.df007458.css",
-    "main.js": "/portafolio-dev/static/js/main.23ab7340.js",
-    "static/media/plant.png": "/portafolio-dev/static/media/plant.bbd334ee7fe10215833b.png",
-    "static/media/laptop.png": "/portafolio-dev/static/media/laptop.f811b93bb150907924dd.png",
-    "static/media/softDrink.png": "/portafolio-dev/static/media/softDrink.6115f75355c14cbc0186.png",
-    "static/media/project5.jpg": "/portafolio-dev/static/media/project5.c6a99b8c13da48dedb77.jpg",
-    "static/media/project2.jpg": "/portafolio-dev/static/media/project2.7ed074e332ce7101f291.jpg",
-    "static/media/project3.jpg": "/portafolio-dev/static/media/project3.9e8ab7c028652aaeacb9.jpg",
-    "static/media/project1.jpg": "/portafolio-dev/static/media/project1.1a790eb33f339e0df655.jpg",
-    "static/media/project6.jpg": "/portafolio-dev/static/media/project6.3ebe0f7905b84a9d2e64.jpg",
-    "static/media/project4.jpg": "/portafolio-dev/static/media/project4.cd5530ce76310e80e36a.jpg",
-    "static/media/CVIgnacio.pdf": "/portafolio-dev/static/media/CVIgnacio.68b3d1941f004c39a12e.pdf",
-    "static/media/mongodb.png": "/portafolio-dev/static/media/mongodb.31ecd959b6a0e3da10d8.png",
-    "static/media/remix.png": "/portafolio-dev/static/media/remix.d13ead883334a75de7fb.png",
-    "index.html": "/portafolio-dev/index.html",
-    "main.df007458.css.map": "/portafolio-dev/static/css/main.df007458.css.map",
-    "main.23ab7340.js.map": "/portafolio-dev/static/js/main.23ab7340.js.map"
+    "main.css": "/static/css/main.df007458.css",
+    "main.js": "/static/js/main.1f1422b3.js",
+    "static/media/plant.png": "/static/media/plant.bbd334ee7fe10215833b.png",
+    "static/media/laptop.png": "/static/media/laptop.f811b93bb150907924dd.png",
+    "static/media/softDrink.png": "/static/media/softDrink.6115f75355c14cbc0186.png",
+    "static/media/project5.jpg": "/static/media/project5.c6a99b8c13da48dedb77.jpg",
+    "static/media/project2.jpg": "/static/media/project2.7ed074e332ce7101f291.jpg",
+    "static/media/project3.jpg": "/static/media/project3.9e8ab7c028652aaeacb9.jpg",
+    "static/media/project1.jpg": "/static/media/project1.1a790eb33f339e0df655.jpg",
+    "static/media/project6.jpg": "/static/media/project6.3ebe0f7905b84a9d2e64.jpg",
+    "static/media/project4.jpg": "/static/media/project4.cd5530ce76310e80e36a.jpg",
+    "static/media/CVIgnacio.pdf": "/static/media/CVIgnacio.68b3d1941f004c39a12e.pdf",
+    "static/media/mongodb.png": "/static/media/mongodb.31ecd959b6a0e3da10d8.png",
+    "static/media/remix.png": "/static/media/remix.d13ead883334a75de7fb.png",
+    "index.html": "/index.html",
+    "main.df007458.css.map": "/static/css/main.df007458.css.map",
+    "main.1f1422b3.js.map": "/static/js/main.1f1422b3.js.map"
   },
   "entrypoints": [
     "static/css/main.df007458.css",
-    "static/js/main.23ab7340.js"
+    "static/js/main.1f1422b3.js"
   ]
 }
