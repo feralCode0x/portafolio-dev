@@ -9,14 +9,14 @@ import Technologies from "./Pages/Technologies";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portafolio-dev">
       <Header />
       <Routes>
-        <Route path="/" basename="/portafolio-dev" element={<Home />} />
-        <Route path="/about" basename="/portafolio-dev/about" element={<About />} />
-        <Route path="/contact" basename="/portafolio-dev/contact" element={<Contact />} />
-        <Route path="/projects" basename="/portafolio-dev/projects" element={<Projects />} />
-        <Route path="/technologies" basename="/portafolio-dev/technologies" element={<Technologies />} />
+        <Route path="/" basename="/" element={<Home />} />
+        <Route path="/about" basename="/about" element={<About />} />
+        <Route path="/contact" basename="/contact" element={<Contact />} />
+        <Route path="/projects" basename="/projects" element={<Projects />} />
+        <Route path="/technologies" basename="/technologies" element={<Technologies />} />
       </Routes>
       <Footer />
     </Router>
