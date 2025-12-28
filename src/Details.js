@@ -40,9 +40,9 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "feralCode0x",
-  tagline: "Fullstack developer",
+  tagline: "Fullstack Blockchain Developer",
   img: profile,
-  about: `Selftaught fullstack blockchain and MERN developer with 4 years of experience. Strong hability on doing research and use abstract logic for solving problems.`,
+  about: "Selftaught fullstack blockchain and MERN developer with 4 years of experience. Strong hability on doing research and use abstract logic for solving problems.",
 };
 
 // Enter your Social Media URLs here
@@ -72,10 +72,10 @@ export const eduDetails = [
   },
 ];
 export const portafolioDetails = {
-   portafolio: "https://github.com/feralCode0x",
+   Portafolio: "https://github.com/feralCode0x",
   };
 export const abilitiesDetails = {
-   abilities: "Blockchain development and audition in Solidity and currently learning development in Solana. React and Typescript frontend, ecommerce with traditional finance.",
+   Abilities: "Blockchain development and audition in Solidity and currently learning development in Solana. React and Typescript frontend, ecommerce with traditional finance.",
   };
 
 

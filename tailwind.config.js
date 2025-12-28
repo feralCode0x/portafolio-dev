@@ -1,5 +1,9 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  safelist: [
+    'xl:leading-tight', // Add the problematic class here
+    // ... other dynamic classes
+  ],
   theme: {
     extend: {
       fontFamily: {

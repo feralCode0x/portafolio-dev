@@ -10,7 +10,7 @@ export const DownloadButton = () => {
     <a href={myPdf} download="CVIgnacio.pdf" target="_blank" rel="noopener noreferrer">
       <button style={{  display: 'flex', alignItems: 'center', height: '10vh', paddingLeft:'80%', cursor: 'pointer'}}>
         <FaFileDownload style={{ alignItems: 'left' }}/> {/* The icon */}
-        Download PDF
+        Download CV
       </button>
     </a>
   );
